@@ -1,0 +1,41 @@
+img{
+	float:right;
+	width:60%;
+    display:inline-block;
+    margin-right:20%;
+
+	
+}
+p{  
+	padding-right:10%;
+	padding-left:10%;
+	font-family:"Arial","Times News Roman","Verdana";
+
+}
+body{
+	background-image: url(../images/cool-background.jpg);
+}
+div{
+	color:white;
+}
+
+
+ .first{
+ 	width:40%;
+ 	margin-right:30%;
+
+ }
+.second{
+	width:42%;
+	margin-right:30%;
+}
+
+ .first-image{
+ 	height:20%;
+ }
+.center{
+	margin-top:30%;
+}
+.table tbody tr:hover td, .table tbody tr:hover th {
+    background-color: red;
+}
